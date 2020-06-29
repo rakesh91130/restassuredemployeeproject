@@ -1,0 +1,2 @@
+cd C:\apiHandsOn1\RestAssuredAPITesting_EmployeeProject
+mvn clean install

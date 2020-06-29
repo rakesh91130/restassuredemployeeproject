@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="EmployeeRestAssuredSuite" duration-ms="4499" started-at="2020-06-28T04:59:32Z" finished-at="2020-06-28T04:59:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4499" started-at="2020-06-28T04:59:32Z" finished-at="2020-06-28T04:59:36Z">
+      <class name="com.rakesh.employeeapi.testCases.GetAllEmployees">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.rakesh.employeeapi.testCases.GetAllEmployees@42d80b78]" name="setUp" is-config="true" duration-ms="81" started-at="2020-06-28T04:59:32Z" finished-at="2020-06-28T04:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getAllEmployees()[pri:0, instance:com.rakesh.employeeapi.testCases.GetAllEmployees@42d80b78]" name="getAllEmployees" is-config="true" duration-ms="3857" started-at="2020-06-28T04:59:32Z" finished-at="2020-06-28T04:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllEmployees -->
+        <test-method status="PASS" signature="checkingResponseBody()[pri:0, instance:com.rakesh.employeeapi.testCases.GetAllEmployees@42d80b78]" name="checkingResponseBody" duration-ms="53" started-at="2020-06-28T04:59:36Z" finished-at="2020-06-28T04:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingResponseBody -->
+      </class> <!-- com.rakesh.employeeapi.testCases.GetAllEmployees -->
+    </test> <!-- Test -->
+  </suite> <!-- EmployeeRestAssuredSuite -->
+</testng-results>
